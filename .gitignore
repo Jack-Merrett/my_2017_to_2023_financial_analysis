@@ -1,0 +1,4 @@
+data/
+data/Checking_Transactions.csv
+data/Savings_transactions.csv
+*.csv
